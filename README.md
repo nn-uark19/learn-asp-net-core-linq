@@ -1,3 +1,15 @@
+## NN note
+
+- Install dotnet try, 
+dotnet tool install -g --add-source "https://dotnet.myget.org/F/dotnet-try/api/v3/index.json" Microsoft.dotnet-try
+https://github.com/dotnet/try/blob/main/DotNetTryLocal.m://github.com/dotnet/try/blob/main/DotNetTryLocal.md
+- cd folder
+- dotnet-try
+
+
+-----------------
+
+
 [![Build Status](https://dev.azure.com/dnceng/public/_apis/build/status/dotnet/try-samples/try-samples-ci?branchName=master)](https://dev.azure.com/dnceng/public/_build/latest?definitionId=548&branchName=master)
 ![dotnet try Enabled](https://img.shields.io/badge/Try_.NET-Enabled-501078.svg)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dotnet/try-samples/master?urlpath=lab)
