@@ -1,17 +1,22 @@
 ## NN note
 
 - Install dotnet try, 
-dotnet tool install -g --add-source "https://dotnet.myget.org/F/dotnet-try/api/v3/index.json" Microsoft.dotnet-try
-https://github.com/dotnet/try/blob/main/DotNetTryLocal.m://github.com/dotnet/try/blob/main/DotNetTryLocal.md
+```console
+> dotnet tool install -g --add-source "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json" Microsoft.dotnet-try
+```
 - cd folder
-- dotnet-try
+- run dotnet-try
+```console
+> dotnet-try
+```
 
 
 -----------------
 
 
 [![Build Status](https://dev.azure.com/dnceng/public/_apis/build/status/dotnet/try-samples/try-samples-ci?branchName=master)](https://dev.azure.com/dnceng/public/_build/latest?definitionId=548&branchName=master)
-![dotnet try Enabled](https://img.shields.io/badge/Try_.NET-Enabled-501078.svg)
+![
+Enabled](https://img.shields.io/badge/Try_.NET-Enabled-501078.svg)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dotnet/try-samples/master?urlpath=lab)
 
 # Try .NET <img src ="https://user-images.githubusercontent.com/2546640/56708992-deee8780-66ec-11e9-9991-eb85abb1d10a.png" width="80px" alt="dotnet bot in space" align ="right">
