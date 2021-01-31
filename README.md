@@ -16,8 +16,6 @@
 > dotnet-try
 ```
 4. This will launch the browser. Now, you can read the documentation and run code in one place.
-
-    ![dotnet try -  _Readme md (2)](https://user-images.githubusercontent.com/2546640/57165217-737b7880-6dc4-11e9-8b4e-0e70966ac03d.gif)
     
 ## Section 2
 This repository contains samples and tutorials that run using the [dotnet try](https://github.com/dotnet/try) global tool.
