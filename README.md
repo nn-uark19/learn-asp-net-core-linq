@@ -8,14 +8,14 @@
 ```console
 > dotnet tool install -g --add-source "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json" Microsoft.dotnet-try
 ```
-1. Clone this repository.
-1. cd folder
+2. Clone this repository.
+3. cd folder
 
-1. Run dotnet-try
+4. Run dotnet-try
 ```console
 > dotnet-try
 ```
-4. This will launch the browser. Now, you can read the documentation and run code in one place.
+5. This will launch the browser. Now, you can read the documentation and run code in one place.
     
 ## Section 2
 This repository contains samples and tutorials that run using the [dotnet try](https://github.com/dotnet/try) global tool.
